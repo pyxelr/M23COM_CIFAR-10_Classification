@@ -11,4 +11,5 @@ The repository includes:
  * [Python script of a simple CNN](https://github.com/pyxelr/M23COM_CIFAR-10_Classification/blob/master/cifar10-simple.ipynb) in Jupyter Notebook
  * [Python script of improved CNNs](https://github.com/pyxelr/M23COM_CIFAR-10_Classification/blob/master/cifar10-improved-cnn.ipynb) in Jupyter Notebook
  * Model files of saved models - files with .h5 extension
+ * [Presentation](https://drive.google.com/file/d/17lv58ixZxgMVslFoytSNjNf9K_BdsOgR/view?usp=sharing) - .pdf document of a presentation given at Coventry University
  * [Report](https://drive.google.com/file/d/1rLR_9R2QTaTpZU3JSCo8fk0Z1UW9dbcY/view?usp=sharing) - .pdf document in IEEE format
